@@ -17,6 +17,10 @@ The output may include acouple of directories which are seperated by __:__.
     ~./bash_login
     ~/.bashrc
     
+## Temporary Setting
+> This will be effective immediately but when you leave you current terminal, this setting will be gone.
+    export PATH="$PATH:your path1:your path2 …" 
+
 ## Example
     sudo vi /etc/profile 
     
