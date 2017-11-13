@@ -14,7 +14,7 @@ The output may include acouple of directories which are seperated by __:__.
 ## User Level
     ~/.profile
     ~/.bash_profile 
-    ~./bash_login
+    ~/.bash_login
     ~/.bashrc
     
 ## Temporary Setting
